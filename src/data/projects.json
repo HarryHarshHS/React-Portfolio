@@ -1,0 +1,27 @@
+[
+    
+    {
+      "title": "Personal Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "Dynamic personal portfolio showcasing skills and projects built with React.js.",
+      "skills": ["React", "HTML", "Css", "JavaScript","Figma"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Music Player",
+      "imageSrc": "projects/project.png",
+      "description": "Implemented a music player functionality with features such as play, pause, skip, and volume control, enhancing the overall user experience.",
+      "skills": ["HTML", "Css", "JavaScript"],
+      "demo": "https://harshsharmaspotify.freewebhostmost.com/",
+      "source": "https://github.com/HarryHarshHS/Music"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
