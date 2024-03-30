@@ -29,8 +29,7 @@ import { getImageUrl } from "../../utils";
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              New to backend development, diving into server-side logic, databases, and APIs for web app functionality.
               </p>
             </div>
           </li>
